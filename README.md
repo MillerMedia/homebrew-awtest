@@ -19,7 +19,7 @@ brew install awtest
 You can also install via URL:
 
 ```bash
-brew install https://raw.githubusercontent.com/MillerMedia/homebrew-awtest/master/Formula/kneejerk.rb
+brew install https://raw.githubusercontent.com/MillerMedia/homebrew-awtest/master/Formula/awtest.rb
 ```
 
 ## Documentation
