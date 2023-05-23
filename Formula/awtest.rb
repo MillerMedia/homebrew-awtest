@@ -1,4 +1,4 @@
-class AWTest < Formula
+class awtest < Formula
   desc "A tool for pentesting found AWS credentials"
   homepage "https://github.com/MillerMedia/awtest"
   url "https://github.com/MillerMedia/awtest/archive/refs/tags/v0.0.1.tar.gz"
