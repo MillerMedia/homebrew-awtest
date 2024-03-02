@@ -10,7 +10,7 @@ First, tap this repository:
 brew tap MillerMedia/awtest
 ```
 
-Then, you can install Kneejerk:
+Then, you can install AWTest with the following command:
 
 ```bash
 brew install awtest
