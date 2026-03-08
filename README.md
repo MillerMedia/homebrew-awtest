@@ -1,27 +1,19 @@
-# Homebrew-AWTest
+# Homebrew-AWTest (Deprecated)
 
-This is the official Homebrew tap for AWTest, a Go tool for pentesting found AWS credentials.
+> **This tap has moved.** Please use the consolidated tap instead:
+>
+> ```sh
+> brew untap MillerMedia/awtest  # remove old tap
+> brew tap MillerMedia/tap
+> brew install --cask awtest
+> ```
+>
+> Or as a one-liner:
+>
+> ```sh
+> brew install --cask MillerMedia/tap/awtest
+> ```
 
-## How do I install these formulae?
+The new tap is at [MillerMedia/homebrew-tap](https://github.com/MillerMedia/homebrew-tap) and includes all MillerMedia Homebrew packages.
 
-First, tap this repository:
-
-```bash
-brew tap MillerMedia/awtest
-```
-
-Then, you can install AWTest with the following command:
-
-```bash
-brew install awtest
-```
-
-You can also install via URL:
-
-```bash
-brew install https://raw.githubusercontent.com/MillerMedia/homebrew-awtest/master/Formula/awtest.rb
-```
-
-## Documentation
-
-`brew help`, `man brew` or check [Homebrew's documentation](https://docs.brew.sh).
+For AWTest documentation, see the [main repository](https://github.com/MillerMedia/awtest).
